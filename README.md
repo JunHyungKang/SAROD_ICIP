@@ -13,11 +13,6 @@ EfficientObjectDetection: https://github.com/uzkent/EfficientObjectDetection
 <img src='./image/overview.png' width=1000>
 
 
-## Clone
-```
-git clone https://github.com/anonymous-hub/SAROD
-```
-
 ## Dataset
 HRSID Dataset can be downloaded in [here](https://github.com/chaozhong2010/HRSID)
 
