@@ -1,5 +1,4 @@
 # SAROD: Efficient End-to-end Object Detection on SAR Images withReinforcement Learning
-Anonymous WACV submission
 
 Yolov3: https://github.com/eriklindernoren/PyTorch-YOLOv3
 
@@ -13,11 +12,6 @@ EfficientObjectDetection: https://github.com/uzkent/EfficientObjectDetection
 ## Overview of our framework.
 <img src='./image/overview.png' width=1000>
 
-
-## Clone
-```
-git clone https://github.com/anonymous-hub/SAROD
-```
 
 ## Dataset
 HRSID Dataset can be downloaded in [here](https://github.com/chaozhong2010/HRSID)
