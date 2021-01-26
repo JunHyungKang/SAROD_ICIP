@@ -1,5 +1,4 @@
 # SAROD: Efficient End-to-end Object Detection on SAR Images withReinforcement Learning
-Anonymous WACV submission
 
 Yolov3: https://github.com/eriklindernoren/PyTorch-YOLOv3
 
