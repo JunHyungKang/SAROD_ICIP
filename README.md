@@ -16,7 +16,7 @@ EfficientObjectDetection: https://github.com/uzkent/EfficientObjectDetection
 ## Dataset
 HRSID Dataset can be downloaded in [here](https://github.com/chaozhong2010/HRSID)
 
-Pre-Processed dataset for the result can be downloaded by running the file or [here](https://drive.google.com/file/d/179XJTHn93KVHzOyPy4grE808Oaxf4jDe/view?usp=sharing).
+Pre-Processed dataset for the result can be downloaded by running the file or [here](https://drive.google.com/file/d/148eCC_yLHokrcwAGtwwbzYg_bsErn-vN/view?usp=sharing).
 
 A example script for downloading the testset is as follows:
 ```
